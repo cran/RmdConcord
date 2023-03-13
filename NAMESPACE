@@ -1,0 +1,26 @@
+export(processConcordance,
+       processLatexConcordance,
+       html_documentC,
+       html_vignetteC,
+       html_with_concordance,
+       pdf_documentC0,
+       pdf_with_concordance,
+       test_packages,
+       tidy_validate)
+
+importFrom(rmarkdown, html_document, html_vignette, pdf_document)
+importFrom(tools, sans_ext = file_path_sans_ext)
+
+if (getRversion() >= "4.3.0") {
+  importFrom(tools, as.Rconcordance)
+  importFrom(tools, matchConcordance)
+} else {
+  S3method(as.Rconcordance, default)
+  S3method(as.character, Rconcordance)
+  S3method(print, Rconcordance)
+}
+
+# else {
+#  importFrom(backports, as.Rconcordance)
+#  importFrom(backports, matchConcordance)
+#}
