@@ -1,3 +1,10 @@
+# RmdConcord 0.1.6
+
+* The `processConcord()` example tried to write to a protected
+location.
+* The concordance reading code didn't handle Windows paths
+properly.
+
 # RmdConcord 0.1.4
 
 * Initial release.

@@ -1,9 +1,9 @@
-6836d7fa651b14d1f23ce2d1e37613a4 *DESCRIPTION
+f220f6d083941e586f64b95c17066351 *DESCRIPTION
 52c9689348d6a63d3e3dbda4f239111b *NAMESPACE
-f705c93c0262857c6ab5d99263848c94 *NEWS.md
+8c4d273505e17054b3acb1339b1354d2 *NEWS.md
 762af25dd42f3ed5453b50c9b5457a14 *R/commonmark.R
 af984e0a6b59fd1f20db4795648805a0 *R/processConcordance.R
-64bd2d7037019e6b794f8fd21c072cbd *R/rdevel.R
+5b005952673b1fd54d76e9a058130500 *R/rdevel.R
 3bbac48c7f3838f7a510a3cb54c2a28d *R/test_packages.R
 e18e04a7345481f9baa806b05c7e803e *README.md
 5e0b27477281f43b0f33877e5a232d35 *build/vignette.rds
@@ -16,7 +16,7 @@ eb5ec72a918171dd5a9de40db47d48cc *inst/rmarkdown/lua/latex-datapos.lua
 dee22512d404a8556fc1b2e0d520d15a *inst/sample/Sample.html
 da3715a1d7fc1f10a50eb05ad1dbed3c *man/html_commonmark_document.Rd
 ba2d1bb552a56c662c8481c699954f4e *man/html_with_concordance.Rd
-4fcd21ac76eee2db8593c937c44de1c0 *man/processConcordance.Rd
+622a055737d24536c2ef9a76bc538803 *man/processConcordance.Rd
 e4550426f17b03f89e90f9e605f91dd9 *man/processLatexConcordance.Rd
 6ed0f2e3e971c7b980b8a79ed3f3003d *man/test_packages.Rd
 48dca3f00d8d5b720840371e68e8acf4 *man/tidy_validate.Rd
